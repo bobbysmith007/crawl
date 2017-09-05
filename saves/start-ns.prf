@@ -1,0 +1,6 @@
+type = normal
+name = Zurghoff
+species = Hill Orc
+background = Fighter
+weapon = war axe
+fully_random = no
